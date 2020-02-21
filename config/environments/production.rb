@@ -90,6 +90,9 @@ Rails.application.configure do
     password: ENV['SMTP_PASSWORD'],
     authentication: ENV['SMTP_AUTH'],
     enable_starttls_auto: ENV['SMTP_STARTTLS_AUTO'],
+    openssl_verify_mode: "none",
+    ssl: true,
+    tls: true,
   }
 
   # Don't care if the mailer can't send.
