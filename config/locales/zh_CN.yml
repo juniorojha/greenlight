@@ -82,7 +82,7 @@ zh_CN:
       shared_access:
         info: 设置为“禁用”将从“会议室选项”下拉列表中删除按钮，以防止用户共享会议室
         title: 允许用户共享会议室
-      subtitle: 自定义Greenlight
+      subtitle: 自定义OpenSchool
       title: 网站设置
     flash:
       approved: 已成功批准用户。
@@ -193,9 +193,9 @@ zh_CN:
       contact_admin: 请联系管理员。
       continue: 还是继续使用 1.0吧。
       notice: >
-        Greenlight 遇到数据库迁移错误。<br>可能因为您还没有更新到 Greenlight 2.0。
+        OpenSchool 遇到数据库迁移错误。<br>可能因为您还没有更新到 OpenSchool 2.0。
       upgrade: 告诉我如何升级到 2.0!
-      version: 我们已经发布了新版Greenlight，但您的数据库不兼容。
+      version: 我们已经发布了新版OpenSchool，但您的数据库不兼容。
     messages:
       blank: 不能是空白的
       too_short: 太短了
@@ -206,7 +206,7 @@ zh_CN:
       inclusion: 列表中不存在
     no_provider:
       message: 您尝试访问的网站未启用
-      help: 请与系统管理员联系以设置Greenlight
+      help: 请与系统管理员联系以设置OpenSchool
     not_found:
       message: 对不起！您要查找的页面不存在。
       help: 它有可能被移除了吗？
@@ -234,7 +234,7 @@ zh_CN:
     email: Email
     submit: 提交
   go_back: 返回
-  greenlight: Greenlight
+  greenlight: OpenSchool
   header:
     all_recordings: 所有录像
     dropdown:
@@ -262,7 +262,7 @@ zh_CN:
     welcome: 欢迎来到OpenSchool在线会议系统
     video: 请看使用说明
     upgrade: 告诉我怎么升级到 2.0!
-    version: 我们发布了新版Greenlight，但您的数据库不兼容。
+    version: 我们发布了新版OpenSchool，但您的数据库不兼容。
   language_default: 默认（浏览器语言）
   ldap_error: 无法连接到LDAP服务器，请在env文件中检查LDAP配置，还要确保服务已经启动。
   login: 登录
@@ -274,10 +274,10 @@ zh_CN:
         signin: 要访问您的个人会议室，请单击下面的按钮并登录。
         signin_link: 登录
         signup:
-          info: 一个新用户已注册使用Greenlight。
+          info: 一个新用户已注册使用OpenSchool。
           more-info: 若要允许此用户访问greenlight，您必须在“网站管理”中批准其帐户。
           admins_link: 访问网站管理页面
-          subject: 新Greenlight用户注册
+          subject: 新OpenSchool用户注册
           username: "用户注册了名称 %{name} 和电子邮箱 %{email}."
         subject: 帐户已批准
         username: "您的用户名是 %{email}."
@@ -293,7 +293,7 @@ zh_CN:
         signup:
           info: 被邀请的用户已注册使用greenlight。
           admins_link: 访问网站管理页面
-          subject: 新Greenlight用户注册
+          subject: 新OpenSchool用户注册
           username: "用户注册了名称%{name} 和电子邮箱 %{email}."
         subject: 邀请加入 OpenSchool
         username: "您的用户名是 %{email}."

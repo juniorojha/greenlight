@@ -83,7 +83,7 @@ it:
       shared_access:
         info: "Impostando su disabilitato, verra' rimossa l'opzione dal menu a discesa delle Opzioni Stanza, impedendo agli utenti di condividere le Stanze"
         title: Consenti agli Utenti di condividere Stanze
-      subtitle: Personalizza Greenlight
+      subtitle: Personalizza OpenSchool
       title: Impostazioni Sito
     flash:
       approved: L'utente è stato approvato con successo
@@ -207,7 +207,7 @@ it:
       inclusion: non è nella lista
     no_provider:
       message: Il sito a cui stai provando ad accedere non è abilitato
-      help: Prego contatta l'amministratore di sistema affinché configuri Greenlight
+      help: Prego contatta l'amministratore di sistema affinché configuri OpenSchool
     not_found:
       message: Spiacente! La pagina che stai cercando non esiste.
       help: "Possibile che sia stato rimosso?"
@@ -235,7 +235,7 @@ it:
     email: Email
     submit: Invia
   go_back: Indietro
-  greenlight: Greenlight
+  greenlight: OpenSchool
   header:
     all_recordings: Tutte le Registrazioni
     dropdown:
@@ -276,9 +276,9 @@ it:
         signin_link: Entra
         signup:
           info: "Un nuovo utente si è registrato "
-          more-info: Per consentire a questo utente l'accesso a Greenlight devi approvare il suo account nelle impostazioni Organizzazione.
+          more-info: Per consentire a questo utente l'accesso a OpenSchool devi approvare il suo account nelle impostazioni Organizzazione.
           admins_link: Visita la pagina Organizzazione
-          subject: Accesso nuovo Utente Greenlight
+          subject: Accesso nuovo Utente OpenSchool
           username: "L'utente ha avuto accesso con il nome %{name} e l'email %{email} ."
         subject: Account Approvato
         username: "Il tuo nome utente è %{email}."
@@ -292,9 +292,9 @@ it:
         signup_info: "Per accedere utilizzando la tua email, clicca il pulsante e segui i passaggi seguenti."
         signup_link: Accesso
         signup:
-          info: Un utente che e' stato invitato ha avuto accesso a Greenlight.
+          info: Un utente che e' stato invitato ha avuto accesso a OpenSchool.
           admins_link: Visita la pagina Organizzazione
-          subject: Accesso nuovo Utente Greenlight
+          subject: Accesso nuovo Utente OpenSchool
           username: "L'utente ha avuto accesso con il nome %{name} e l'email %{email} ."
         subject: Invito ad accedere a OpenSchool
         username: "Il tuo nome utente è %{email}."

@@ -83,7 +83,7 @@ lv:
       shared_access:
         info: "Atspējojot opciju, poga tiks noņemta no nolaižamās izvēlnes Telpas un liegs lietotājiem koplietot telpas"
         title: Ļaut lietotājiem koplietot telpas
-      subtitle: Pielāgot Greenlight (interfeisa) iestatījumus
+      subtitle: Pielāgot OpenSchool (interfeisa) iestatījumus
       title: Vietnes iestatījumi
     flash:
       approved: Lietotājs apstiprināts.
@@ -192,11 +192,11 @@ lv:
       help: Drīz viss darbosies!
     migration_error:
       contact_admin: "Ja neesat administrators, lūdzu, sazinieties ar kādu no viņiem."
-      continue: Es vēlos turpināt izmantot Greenlight versiju 1.0.
+      continue: Es vēlos turpināt izmantot OpenSchool versiju 1.0.
       notice: >
-        Greenlight-am gadījās datu bāzes migrācijas kļūda. <br> Iespējams tāpēc, ka neveicāt versijas paaugstināšanu uz Greenlight 2.0.
+        OpenSchool-am gadījās datu bāzes migrācijas kļūda. <br> Iespējams tāpēc, ka neveicāt versijas paaugstināšanu uz OpenSchool 2.0.
       upgrade: "Parādiet man, kā paaugstināt uz versiju 2.0!"
-      version: "Ir izlaista jauna Greenlight versija, taču jūsu datu bāze ar to nav saderīga."
+      version: "Ir izlaista jauna OpenSchool versija, taču jūsu datu bāze ar to nav saderīga."
     messages:
       blank: nevar būt tukšs
       too_short: pārāk īss
@@ -207,7 +207,7 @@ lv:
       inclusion: nav sarakstā
     no_provider:
       message: "Vietne, kurai mēģināt piekļūt, nav iespējota"
-      help: "Lūdzu, sazinieties ar sistēmas administratoru, lai instalētu Greenlight."
+      help: "Lūdzu, sazinieties ar sistēmas administratoru, lai instalētu OpenSchool."
     not_found:
       message: "Piedodiet, Jūsu meklētā lapa neeksistē."
       help: "Varbūt tā ir izdzēsta?"
@@ -235,7 +235,7 @@ lv:
     email: E-pasts
     submit: Iesniegt/Nosūtīt
   go_back: Atpakaļ/Atgriezties
-  greenlight: Greenlight
+  greenlight: OpenSchool
   header:
     all_recordings: Visi ieraksti
     dropdown:
@@ -261,9 +261,9 @@ lv:
   landing:
     about: "%{href} ir OpenSchool atklātā koda video sapulču servera vienkārša GUI saskarne (fasāde). Izmantojot īsu un ērtu saiti, varat izveidot savas video sapulču telpas, rīkot video sapulces vai piedalīties citu rīkotās."
     welcome: Laipni lūgti video sapulču serverī OpenSchool.
-    video: Iepazīstieties ar Greenlight videopamācību
+    video: Iepazīstieties ar OpenSchool videopamācību
     upgrade: "Parādiet man, kā versiju paaugstināt uz 2.0!"
-    version: "Ir izlaista augstāka Greenlight versija, taču jūsu datu bāze ar to nav saderīga."
+    version: "Ir izlaista augstāka OpenSchool versija, taču jūsu datu bāze ar to nav saderīga."
   language_default: Noklusējums (pārlūka valoda)
   ldap_error: "Neizdodas izveidot savienojumu ar LDAP serveri. Lūdzu, pārbaudiet savu LDAP konfigurāciju env failā un pārliecinieties, ka serveris LDAP darbojas."
   login: Ierakstīties
@@ -275,10 +275,10 @@ lv:
         signin: "Lai piekļūtu privātajām telpām, noklikšķiniet uz zemāk esošās pogas un ierakstieties sistēmā."
         signin_link: Ierakstīties(ienākt)
         signup:
-          info: Reģistrējies jauns Greenlight lietotājs.
+          info: Reģistrējies jauns OpenSchool lietotājs.
           more-info: "Lai lietotājam ļautu piekļūt Grenlight, jums jāapstiprina viņa konts organizācijas iestatījumos."
           admins_link: Apmeklēt organizācijas lapu
-          subject: Jauna Greenlight lietotāja reģistrācija
+          subject: Jauna OpenSchool lietotāja reģistrācija
           username: "Piereģistrējās lietotājs ar vārdu %{name} un e-pastu %{email}."
         subject: Konts ir apstiprināts
         username: "Jūsu lietotājvārds ir %{email}."
@@ -292,9 +292,9 @@ lv:
         signup_info: "Lai ierakstītos, izmantojiet savu e-pastu, noklikšķiniet uz zemāk esošās pogas un izpildiet norādījumus."
         signup_link: Reģistrācija
         signup:
-          info: "Lietotājs, kurš tika uzaicināts reģistrēties Greenlight."
+          info: "Lietotājs, kurš tika uzaicināts reģistrēties OpenSchool."
           admins_link: Apmeklējiet organizācijas lapu
-          subject: Jauna Greenlight lietotāja reģistrācija.
+          subject: Jauna OpenSchool lietotāja reģistrācija.
           username: "Reģistrēts lietotājs ar vārdu %{name} un e-pastu %{email}."
         subject: Uzaicinājums pievienoties video sapulču sistēmai OpenSchool
         username: "Jūsu lietotājvārds ir %{email}."

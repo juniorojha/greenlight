@@ -83,7 +83,7 @@ ja_JP:
       shared_access:
         info: 無効に設定すると、［会議室のオプション］ドロップダウンからボタンが削除され、ユーザが会議室を共有できなくなります
         title: ユーザが会議室を共有できるようにします
-      subtitle: Greenlightのカスタマイズ
+      subtitle: OpenSchoolのカスタマイズ
       title: サイトの設定
     flash:
       approved: ユーザが承認されました。
@@ -194,9 +194,9 @@ ja_JP:
       contact_admin: あなたが管理者でない場合は、管理者に連絡してください。
       continue: 1.0を使い続けたいです。
       notice: >
-        Greenlightでデータベース移行エラーが発生しました。<br> Greenlight 2.0に更新していない可能性があります。
+        OpenSchoolでデータベース移行エラーが発生しました。<br> OpenSchool 2.0に更新していない可能性があります。
       upgrade: 2.0にアップグレードする方法を教えて！
-      version: Greenlightの新しいバージョンをリリースしましたが、データベースには互換性がありません。
+      version: OpenSchoolの新しいバージョンをリリースしましたが、データベースには互換性がありません。
     messages:
       blank: 空白にすることはできません
       too_short: 短すぎます
@@ -207,7 +207,7 @@ ja_JP:
       inclusion: リストに含まれていません
     no_provider:
       message: アクセスしようとしているサイトは有効になっていません
-      help: Greenlightの設定については、システム管理者にお問い合わせください。
+      help: OpenSchoolの設定については、システム管理者にお問い合わせください。
     not_found:
       message: お探しのページは存在しません。
       help: 削除されている可能性はありませんか？
@@ -235,7 +235,7 @@ ja_JP:
     email: メールアドレス
     submit: 送信
   go_back: 戻る
-  greenlight: Greenlight
+  greenlight: OpenSchool
   header:
     all_recordings: すべての録画
     dropdown:
@@ -261,9 +261,9 @@ ja_JP:
   landing:
     about: "%{href}は、オープンソースWeb会議サーバ OpenSchool のシンプルなフロントエンドです。 自分の会議室を作成してセッションを主催したり、便利なリンクを使用して他のユーザが参加したりできます。"
     welcome: OpenSchool へようこそ
-    video: Greenlightの使い方に関するチュートリアルを見る
+    video: OpenSchoolの使い方に関するチュートリアルを見る
     upgrade: 2.0にアップグレードする方法を教えて！
-    version: Greenlightの新しいバージョンをリリースしましたが、データベースには互換性がありません。
+    version: OpenSchoolの新しいバージョンをリリースしましたが、データベースには互換性がありません。
   language_default: デフォルト(ブラウザの言語)
   ldap_error: LDAPサーバーに接続できません。.envファイルのLDAP構成を確認しサーバが実行されていることを確認してください。
   login: サインイン
@@ -275,10 +275,10 @@ ja_JP:
         signin: パーソナル会議室にアクセスするには、下のボタンをクリックしてサインインしてください。
         signin_link: サインイン
         signup:
-          info: 新しいユーザがGreenlightを利用するためにサインアップしました。
-          more-info: このユーザーがGreenlightにアクセスできるようにするには、［構成の設定］でアカウントを承認する必要があります。
+          info: 新しいユーザがOpenSchoolを利用するためにサインアップしました。
+          more-info: このユーザーがOpenSchoolにアクセスできるようにするには、［構成の設定］でアカウントを承認する必要があります。
           admins_link: 構成ページを見る
-          subject: 新しいGreenlightユーザのサインアップ
+          subject: 新しいOpenSchoolユーザのサインアップ
           username: "ユーザは名前 %{name} とメールアドレス %{email} でサインアップしました。"
         subject: アカウントが承認されました
         username: "あなたのユーザ名は %{email} です。"
@@ -292,9 +292,9 @@ ja_JP:
         signup_info: メールを使ってサインアップするには、以下のボタンをクリックして、手順に従ってください。
         signup_link: サインアップ
         signup:
-          info: 招待されたユーザがGreenlightを使用するためにサインアップしました。
+          info: 招待されたユーザがOpenSchoolを使用するためにサインアップしました。
           admins_link: 構成ページにアクセス
-          subject: 新しいGreenlightユーザのサインアップ
+          subject: 新しいOpenSchoolユーザのサインアップ
           username: "ユーザは名前 %{name} とメールアドレス %{email} でサインアップしました。"
         subject: OpenSchoolへの招待
         username: "あなたのユーザ名は %{email} です。"

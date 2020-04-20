@@ -194,9 +194,9 @@ tr:
       contact_admin: "Yönetici değilseniz, lütfen bir tane ile iletişime geçin."
       continue: 1.0 sürümü kullanmaya devam etmek istiyorum.
       notice: >
-        Sistem bir veritabanı taşıma hatasıyla karşılaştı.<br>Bunun nedeni Greenlight 2.0 sürümünü kullanmadığınızdan olabilir. 2.0 sürümüne nasıl yükselteceğimi göster!
+        Sistem bir veritabanı taşıma hatasıyla karşılaştı.<br>Bunun nedeni OpenSchool 2.0 sürümünü kullanmadığınızdan olabilir. 2.0 sürümüne nasıl yükselteceğimi göster!
       upgrade: "2,0 Sürümüne nasıl yükselteceğimi göster!"
-      version: "Greenlight'ın yeni bir sürümünü çıkardık, ancak veritabanınız uyumlu değil."
+      version: "OpenSchool'ın yeni bir sürümünü çıkardık, ancak veritabanınız uyumlu değil."
     messages:
       blank: Boş bırakılamaz
       too_short: Çok kısa
@@ -207,7 +207,7 @@ tr:
       inclusion: listeye dahil değil
     no_provider:
       message: Erişmeye çalıştığınız site etkin değil
-      help: Greenlight'ı kurmak için lütfen sistem yöneticinize başvurun
+      help: OpenSchool'ı kurmak için lütfen sistem yöneticinize başvurun
     not_found:
       message: Üzgünüz! Aradığınız sayfa mevcut değil.
       help: "Kaldırılması mümkün mü?"

@@ -83,7 +83,7 @@ da:
       shared_access:
         info: "Indstilling sat til deaktiveret, vil fjerne knappen fra rullemenuen Rumindstillinger, og forhindrer brugere i at dele rum"
         title: Tillad Brugere at Dele Rum
-      subtitle: Tilpas/Ændre Greenlight
+      subtitle: Tilpas/Ændre OpenSchool
       title: Side Indstillinger
     flash:
       approved: "Bruger er blevet godkendt med succes. "
@@ -194,9 +194,9 @@ da:
       contact_admin: "Hvis du ikke er administrator, så kontakt venligst en."
       continue: Jeg vil gerne blive ved med at bruge 1.0.
       notice: >
-        Greenlight oplevede en database migration fejl.<br> Dette kan være fordi du ikke har opdateret til Greenlight 2.0.
+        OpenSchool oplevede en database migration fejl.<br> Dette kan være fordi du ikke har opdateret til OpenSchool 2.0.
       upgrade: Vis mig hvordan jeg opdaterer til 2.0!
-      version: "Vi har udgivet en ny version af Greenlight, men din database er ikke kompatibel."
+      version: "Vi har udgivet en ny version af OpenSchool, men din database er ikke kompatibel."
     messages:
       blank: Må ikke være blankt
       too_short: er for kort
@@ -207,7 +207,7 @@ da:
       inclusion: er ikke inkluderet i listen
     no_provider:
       message: Siden du prøver at få adgang til er ikke slået til
-      help: Kontakt venligst din system administrator for at indstille Greenlight
+      help: Kontakt venligst din system administrator for at indstille OpenSchool
     not_found:
       message: Undskyld! Siden du leder efter eksistere ikke.
       help: "Er det muligt den er blevet fjernet?"
@@ -235,7 +235,7 @@ da:
     email: Email
     submit: Send
   go_back: Gå tilbage
-  greenlight: Greenlight
+  greenlight: OpenSchool
   header:
     all_recordings: Alle Optagelser
     dropdown:
@@ -261,9 +261,9 @@ da:
   landing:
     about: "%{href} er et simpelt front.end system til OpenSchool open-source web konference server. Du kan oprette dine egne rum og hoste sessioner, eller tilslutte andre ved brug af korte og nemme links."
     welcome: Velkommen til OpenSchool.
-    video: Se vores vejledninger om hvordan man bruger Greenlight
+    video: Se vores vejledninger om hvordan man bruger OpenSchool
     upgrade: Vis mig hvordan man opgradere til 2.0!
-    version: "Vi har udgivet en ny version af Greenlight, men din database er ikke kompatibel."
+    version: "Vi har udgivet en ny version af OpenSchool, men din database er ikke kompatibel."
   language_default: Standard (browser sprog)
   ldap_error: "Kunne ikke koble på LDAP serveren. Tjek venligst din LDAP konfigurationen i env filen, og sikre dig at din server kører. "
   login: Log Ind
@@ -275,10 +275,10 @@ da:
         signin: For at få adgang til dit personlige rum skal du klikke på knappen nedenunder og logge ind.
         signin_link: Log Ind
         signup:
-          info: En ny bruger har oprettet sig på Greenlight.
-          more-info: For at tillade denne bruger at få adgang til Greenlight skal du først godkende deres konto i systemets indstillinger.
+          info: En ny bruger har oprettet sig på OpenSchool.
+          more-info: For at tillade denne bruger at få adgang til OpenSchool skal du først godkende deres konto i systemets indstillinger.
           admins_link: Besøg Indstillings Siden
-          subject: Ny Greenlight Bruger Oprettelse
+          subject: Ny OpenSchool Bruger Oprettelse
           username: "Brugeren oprettede sig med navn %{name} og email %{email}."
         subject: Kontoen Godkendt
         username: "Dit brugernavn er %{email}."
@@ -292,9 +292,9 @@ da:
         signup_info: "For at oprette dig med din email, klik på knappen nedenunder og følg vejledningen."
         signup_link: Opret Konto
         signup:
-          info: En bruger der var inviteret har oprette sig på Greenlight.
+          info: En bruger der var inviteret har oprette sig på OpenSchool.
           admins_link: Besøg Indstillings Siden
-          subject: Ny Greenlight Bruger Oprettelse
+          subject: Ny OpenSchool Bruger Oprettelse
           username: "Brugeren der oprettede sig med navn %{name} og email %{email}."
         subject: Invitation til at bruge OpenSchool
         username: "Dit brugernavn er %{email}."

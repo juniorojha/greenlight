@@ -82,7 +82,7 @@ cs:
       shared_access:
         info: "Nastavení na vypnuto odstraní místnost ze seznamu, čímž zabrání uživatelům místnost sdílet"
         title: Povolit uživatelům sdílet místnost
-      subtitle: Přizpůsobit Greenlight
+      subtitle: Přizpůsobit OpenSchool
       title: Nastavení serveru
     flash:
       approved: Uživatel byl úspěšně schválen
@@ -191,11 +191,11 @@ cs:
       help: Služba bude brzy k dispozici.
     migration_error:
       contact_admin: "Pokud nejste správce, tak jej prosím kontaktujte."
-      continue: Rád bych nadále používal Greenlight verze 1.0.
+      continue: Rád bych nadále používal OpenSchool verze 1.0.
       notice: >
-        Greenlight zaznamenal chybu při migraci databáze. <br> Možným důvodem je, že neproběhl upgrade na Greenlight verze 2.0
-      upgrade: Návod jak provést upgrade na Greenlight verze 2.0.
-      version: "K dispozici je nová verze Greenlight, ale Vaše databáze není kompatibilní."
+        OpenSchool zaznamenal chybu při migraci databáze. <br> Možným důvodem je, že neproběhl upgrade na OpenSchool verze 2.0
+      upgrade: Návod jak provést upgrade na OpenSchool verze 2.0.
+      version: "K dispozici je nová verze OpenSchool, ale Vaše databáze není kompatibilní."
     messages:
       blank: nesmí být prázdný
       too_short: je příliš krátké
@@ -206,7 +206,7 @@ cs:
       inclusion: není v seznamu
     no_provider:
       message: Stránka není aktivní
-      help: "Kontaktujte prosím administrátora, aby nastavil Greenlight"
+      help: "Kontaktujte prosím administrátora, aby nastavil OpenSchool"
     not_found:
       message: "Promiňte! Stránka, kterou hledáte, neexistuje."
       help: "Je možné, že byla odstraněna?"
@@ -234,7 +234,7 @@ cs:
     email: e-mail
     submit: Odeslat
   go_back: Zpět
-  greenlight: Greenlight
+  greenlight: OpenSchool
   header:
     all_recordings: Všechny nahrávky
     dropdown:
@@ -260,9 +260,9 @@ cs:
   landing:
     about: "%{href} je jednoduchá nadstavba pro Váš open source webový konferenční server OpenSchool. Můžete vytvářet vlastní virtuální místnosti pro pořádání konferencí, nebo se můžete připojit ke konferencím ostatních uživatelů jednoduchým a pohodlným kliknutím na přijatý odkaz."
     welcome: Vítejte v OpenSchool.
-    video: "Zhlédněte naše instruktážní video, jak používat Greenlight"
-    upgrade: Návod jak provést upgrade na Greenlight verze 2.0.
-    version: "K dispozici je nová verze Greenlight, ale Vaše databáze není kompatibilní."
+    video: "Zhlédněte naše instruktážní video, jak používat OpenSchool"
+    upgrade: Návod jak provést upgrade na OpenSchool verze 2.0.
+    version: "K dispozici je nová verze OpenSchool, ale Vaše databáze není kompatibilní."
   language_default: Výchozí (jazyk webového prohlížeče)
   ldap_error: "Není možné připojit se k LDAP serveru. Prosím zkontrolujte LDAP konfiguraci v souboru .env a zkontrolujte, že LDAP server běží."
   login: Přihlásit
@@ -274,10 +274,10 @@ cs:
         signin: Pro přístup do Vašich místností klikněte na tlačítko níže a přihlaste se.
         signin_link: Přihlášení
         signup:
-          info: Nový Greenlight uživatel byl zaregistrován.
+          info: Nový OpenSchool uživatel byl zaregistrován.
           more-info: Pro aktivaci přístupu uživatele do systému je nutné schválit jeho účet administrátorem v nastavení Organizace.
           admins_link: Navštivte stránku Organizace
-          subject: Registrace nového uživatele Greenlight
+          subject: Registrace nového uživatele OpenSchool
           username: "Byl zaregistrován nový uživatel se jménem %{name} a e-mail adresou %{email}."
         subject: Účet schválen
         username: "Vaše uživatelské jméno je %{email}."
@@ -291,9 +291,9 @@ cs:
         signup_info: "Pro registraci Vaším emailem, klikněte na tlačítko níže a postupujte podle předepsaných kroků."
         signup_link: Registrace
         signup:
-          info: Pozvaný Greenlight uživatel se zaregistroval.
+          info: Pozvaný OpenSchool uživatel se zaregistroval.
           admins_link: Navštivte stránku Organizace
-          subject: Registrace nového uživatele Greenlight
+          subject: Registrace nového uživatele OpenSchool
           username: "Byl zaregistrován nový uživatel se jménem %{name} a e-mail adresou %{email}."
         subject: Pozvánka na přístup k systému OpenSchool
         username: "Vaše uživatelské jméno je %{email}."
